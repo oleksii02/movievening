@@ -1,0 +1,33 @@
+.film {
+    background-color: rgb(24,34,45);
+    border-right: 4px solid rgb(20,29,39);
+}
+.film_window {
+    padding: 4px;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.film_cover{
+    background-color: rgb(35,52,70);
+    opacity: 0.7;
+    width: 200px;
+}
+
+table{
+font-size: 12px;
+margin-left: 10px;
+    text-align: left;
+}
+
+tbody{
+    padding-left: 10px;
+}
+td {
+    padding-left: 10px;
+}
+.info {
+
+    color: white;
+}

@@ -1,0 +1,42 @@
+.pagination{
+    padding-top: 4px;
+    justify-content: space-around;
+    background-color: rgb(20,29,39);
+
+
+
+}
+.button {
+    width: 35px;
+    height: 35px;
+    color: rgb(125,194,46);
+    background-color: rgba(24,34,45);
+    border: none;
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
+
+.two {
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.children {
+    width: 35px;
+    height: 35px;
+    color: rgb(125,194,46);
+    background-color: rgba(24,34,45);
+    text-align: center;
+    margin-right: 6px;
+    margin-left: 6px;
+
+}
+
+.button:hover, .button_two:hover{
+    background-color: rgb(35,52,70);
+}
+.hover {
+    background-color: rgb(35,52,70);
+    font-weight: bold;
+}

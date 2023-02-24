@@ -1,0 +1,17 @@
+.sort_window {
+    height: 50px;
+    background-color: rgb(20,29,39);
+
+}
+
+.sort_name{
+    height: 50px;
+    padding-left: 2%;
+    padding-top: 10px;
+    vertical-align: middle;
+    font-size: 20px;
+
+
+    color: rgb(125,194,46);
+    background-color:  rgb(20,29,39);
+}

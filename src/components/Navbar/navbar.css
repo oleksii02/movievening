@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.navbar_window {
+    background-color: rgb(24,34,45);
+    height: 165px;
+}
+
+.name {
+    margin: 1%;
+    padding: 3px;
+    display: block;
+    float: left;
+    color: rgb(125,194,46);
+
+}
+
+.navbar_search {
+    background-color: rgb(35,52,70);;
+    padding: 4px;
+    border: none;
+    outline: none;
+}
+
+._button {
+    padding: 2%;
+    color: rgb(125,194,46);
+    background-color: rgb(35,52,70);
+    border: solid 2px rgb(35,52,70);
+}
+
+._button:hover{
+    background-color: rgba(24,34,45);
+    border: solid 2px rgb(35,52,70);
+}
+a {
+    text-decoration: none;
+}
+.link  {
+    color: rgb(35,52,70);
+
+}
+.link:hover {
+    color: rgb(125,194,46);
+}
+
+

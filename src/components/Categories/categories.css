@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.categories_window {
+    height: 100%;
+    background-color: rgb(24,34,45);
+}
+
+.categories_name {
+    height: 50px;
+    padding-left: 6%;
+    padding-top: 10px;
+    vertical-align: middle;
+    font-size: 20px;
+
+
+    color: rgb(125,194,46);
+    background-color:  rgb(20,29,39);
+}
+
+.categories_list {
+    margin: 4%;
+}
+
+.categories_button {
+    padding: 2%;
+    color: rgb(125,194,46);
+    background-color: rgba(24,34,45);
+    border: none;
+
+}
+
+.categories_button:hover{
+    background-color: rgb(35,52,70);
+}
